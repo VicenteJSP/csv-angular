@@ -1,0 +1,12 @@
+.csv-file-chooser-section {
+  border: 1px solid;
+  text-align: center;
+  height: 80px;
+}
+
+.csv-file-chooser-section input {
+  height: 100%;
+  padding-top: 30px;
+  width: 100%;
+}
+
